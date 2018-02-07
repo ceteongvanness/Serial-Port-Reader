@@ -1,0 +1,6 @@
+C:\Users\Reuben\Desktop\SEEK\SerialPort\SerialPortReader\SerialPortReader\bin\Debug\SerialPortReader.exe.config
+C:\Users\Reuben\Desktop\SEEK\SerialPort\SerialPortReader\SerialPortReader\bin\Debug\SerialPortReader.exe
+C:\Users\Reuben\Desktop\SEEK\SerialPort\SerialPortReader\SerialPortReader\bin\Debug\SerialPortReader.pdb
+C:\Users\Reuben\Desktop\SEEK\SerialPort\SerialPortReader\SerialPortReader\obj\Debug\SerialPortReader.csprojResolveAssemblyReference.cache
+C:\Users\Reuben\Desktop\SEEK\SerialPort\SerialPortReader\SerialPortReader\obj\Debug\SerialPortReader.exe
+C:\Users\Reuben\Desktop\SEEK\SerialPort\SerialPortReader\SerialPortReader\obj\Debug\SerialPortReader.pdb
